@@ -1,9 +1,19 @@
-* CTO: Choosing TechnOlogy ;)
-* Douglas Adams: "We are stuck with technology when what we really want is just stuff that works."
-* Can chosen tech be an unfair advantage for recruitment?
-* Does exotic tech harm recruitment?
-* How can tech contribute to developer's happiness and productivity?
-* How does one know if a technology will succeed?
-* Are you an early adopter in tech?
-* How does technology and it's maturity relate to a business domain?
-* Does tech matter at all? Or is it only about people, communication and processes?
+* Beginning
+** CTO: Choosing Technology Officer ;)
+** Douglas Adams: "We are stuck with technology when what we really want is just stuff that works."
+** Can chosen tech be an unfair advantage?
+* Middle
+** Are you an early adopter in tech (for production use)?
+** The right tool for the job: How to find out?
+** How does one know if a technology will succeed?
+** Tech & People
+*** Does exotic tech harm recruitment?
+*** Or can it facilitate recruiting the right people?
+*** How can tech contribute to developer's happiness and productivity?
+** Tech & Business
+*** How does technology and it's maturity relate to a business domain?
+*** How do you align technology choices with business goals and metrics?
+** Does tech matter at all? Or is it only about people, communication and processes?
+* End
+** What is one currently trending tech you consider important for the industry's future?
+** Your warstory: Where did a tech choice have a strong positive/negative impact in your career?
